@@ -1,0 +1,6 @@
+{
+    "solidity.remappings":[
+        "@openzeppelin/=hardhat/node_modules/@openzeppelin",
+        "@chainlink/=hardhat/node_modules/@chainlink"
+    ]
+}
